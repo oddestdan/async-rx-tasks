@@ -1,0 +1,12 @@
+{
+  "name": "async-rx-tasks",
+  "version": "1.0.0",
+  "description": "[Learning] Asynchronous and Reactive programming course tasks",
+  "main": "lab1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dan Stetsenko",
+  "license": "ISC"
+}
